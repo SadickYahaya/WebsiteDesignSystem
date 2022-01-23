@@ -1,0 +1,215 @@
+
+
+body{
+    margin: 0 10%;
+    position: absolute;
+}
+
+.main-header{
+    margin-left: 150px;
+    padding: 10px;
+}
+h2{
+    margin-left: 17px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #3DFF9A;
+    text-align: center;
+    padding: 10px;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.colors{
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    box-shadow: 0px 0px 8px 10px #888888;
+}
+
+.colors-heading{
+    margin-left: 17px;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(90deg, rgba(61,255,154,1) 0%, rgba(163,16,0,1) 35%, rgba(240,24,0,1) 100%);
+    text-align: center;
+    padding: 10px;
+    margin-right: 15px;
+    color: white;
+}
+
+.color-forage-green{
+    background-color: #0C5E1B;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    margin-left: 17px;
+}
+
+.color-dark-sunset{ 
+    background-color: #FEA443;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    
+}
+.color-sun-yellow{
+
+    background-color: #F2E205;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.color-cream{
+
+    background-color: #F2F0CE;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    margin-left: 17px;
+}
+.color-dark-red{
+
+    background-color: #AB0900;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.color-bright-blue{
+
+    background-color: #0016DE;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+ .fonts{
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 0px 8px 10px #888888;
+}
+.font-mochiy{
+    width: 45%;
+    display: inline-block;
+}
+
+.mochiy-title{
+    margin-left: 17px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-decoration: underline;  
+}
+.mochiy-regular{
+    margin-left: 17px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-weight: lighter;
+}
+.mochiy-bold{
+    margin-left: 17px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-weight: bolder;
+}
+.mochiy-italic{
+    margin-left: 17px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+
+.font-raleway{
+    font-size: 20px;
+    width: 45%;
+    display: inline-block;
+}
+.raleway-title{
+    margin-left: 17px;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: underline;  
+}
+.raleway-regular{
+    margin-left: 17px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+}
+.raleway-bold{
+    margin-left: 17px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+.raleway-italic{
+    margin-left: 17px;
+    font-family:'Raleway', sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.font-ubuntu{
+    font-size: 20px;
+    width: 45%;
+    display: inline-block;
+}
+.ubuntu-title{
+    margin-left: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: underline;
+}
+.ubuntu-regular{
+    margin-left: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+}
+.ubuntu-bold{
+    margin-left: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.ubuntu-italic{
+    margin-left: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.text-styles{
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 0px 8px 10px #888888;   
+}
+
+h1{   
+    margin-left: 17px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.heading{
+    margin-left: 17px;
+    font-family: 'EB Garamond', sans-serif;
+    background-color: transparent;
+    text-align: left;
+}
+
+p{
+    margin-left: 17px;
+    font-family: 'Inconsolata', sans-serif;
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
